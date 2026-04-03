@@ -1,2 +1,0 @@
-/*
-  Content-Security-Policy: default-src 'self' https://unpkg.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://unpkg.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://fonts.gstatic.com; font-src 'self' https://fonts.googleapis.com https://fonts.gstatic.com; connect-src 'self' https://unpkg.com https://lancyaquvhncchiclcul.supabase.co wss://lancyaquvhncchiclcul.supabase.co wss://sockets.streamlabs.com https://sockets.streamlabs.com; img-src 'self' data: blob:; worker-src blob:;
