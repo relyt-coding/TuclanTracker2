@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://unpkg.com https://fonts.googleapis.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://fonts.gstatic.com; font-src 'self' https://fonts.googleapis.com https://fonts.gstatic.com; connect-src 'self' https://kbkgwcweksdyijbhezhk.supabase.co wss://kbkgwcweksdyijbhezhk.supabase.co wss://sockets.streamlabs.com https://sockets.streamlabs.com; img-src 'self' data:;"
